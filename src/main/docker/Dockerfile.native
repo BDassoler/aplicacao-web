@@ -24,4 +24,4 @@ COPY --chown=1001:root target/*-runner /work/application
 EXPOSE 8080
 USER 1001
 
-ENTRYPOINT [ "java", "-jar", "-Dspring.profiles.active=prod", "app.jar" ]
+ENTRYPOINT [ "java", "-jar", "dpg-cl0ocfis1bgc73a5kg7g-a.oregon-postgres.render.com", "app.jar" ]
