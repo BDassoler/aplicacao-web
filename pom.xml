@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.senac</groupId>
 	<artifactId>aula-paginacao-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>aula-paginacao-api</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
